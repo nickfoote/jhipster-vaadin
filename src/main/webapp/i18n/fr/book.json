@@ -1,0 +1,22 @@
+{
+    "hippyApp": {
+        "book" : {
+            "home": {
+                "title": "Books",
+                "createLabel": "Créer un nouveau Book",
+                "createOrEditLabel": "Créer ou éditer un Book"
+            },
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Book {{ id }} ?"
+            },
+            "detail": {
+                "title": "Book"
+            },
+            "name": "Name",
+            "description": "Description",
+            "pubDate": "PubDate",
+            "price": "Price"
+        }
+    }
+}
+

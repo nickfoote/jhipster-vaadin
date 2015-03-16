@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "hippy",
+    "packageName": "com.test.hippy",
+    "packageFolder": "com/test/hippy",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "7",
+    "rememberMeKey": "f315d84d677febe27a47a93418e35e4d2aea8e78"
+  }
+}
